@@ -601,7 +601,7 @@ footer{
         background-repeat: no-repeat;
         background-size: cover;
         position: absolute;
-        left: -19%;
+        left: 0%;
         right: 0%;
         top: 0%;
         bottom: 0%;
@@ -613,13 +613,13 @@ footer{
         font-style: normal;
         width: 343px;
         height: 110px;
-        font-size: 55px;
+        font-size: 63px;
         font-weight: 900px;
         line-height: 60px;
         text-transform: uppercase;
         position: absolute;
         color: black;
-        left: 2%;
+        left: 7%;
         right: 0%;
         top: calc(90% + 650px/2 - 12px);
     
@@ -629,41 +629,41 @@ footer{
         font-family: 'outfit';
         font-style: normal;
         font-weight: 300;
-        font-size: 16px;
+        font-size: 19px;
         line-height: 30px;
         color: #151515;
         position: absolute;
-        width: 300px;
+        width: 350px;
         height: 112px;
-        left: 2%;
+        left: 8%;
         right: 0%;
         top: calc(48% + 600px/2 + 155px);
     }
 
     .button1idle-location {
         position: absolute;
-        left: 2%;
+        left: 7%;
         top: calc(69% + 940px/2 + 155px);
-        width: 150px;
-        height: 50px;
+        width: 189px;
+        height: 63px;
         background-color: black;
         border: none;
         color: white;
         font-family: 'Big Shoulders Display';
         font-style: normal;
         font-weight: 800;
-        font-size: 14px;
+        font-size: 21px;
         letter-spacing: 3.63636px;
     }
 
     .icon-arrow-right-box {
         position: absolute;
-        left: 32%;
+        left: 46.5%;
         right: 7.06%;
         top: calc(69% + 940px/2 + 155px);
-        bottom: 39.25%;
-        width: 40px;
-        height: 50px;
+        bottom: 67.25%;
+        width: 46px;
+        height: 63px;
         background-color: #D5966C;
         align-items: center;
         border: none;
@@ -689,10 +689,10 @@ footer{
         background-image: url(mobile/image-grid-1.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        width: 283px;
-        height: 283px;
-        position: absolute; 
-        left: 1.2%;
+        width: 404px;
+        height: 369px;
+        position: absolute;
+        left: 4.2%;
         top: 800px;
         /* display: block; */
     }
@@ -700,15 +700,15 @@ footer{
     .content-two-header {
         position: absolute;
         width: 300px;
-        height: 90px;
-        left: 2%;
+        height: 86px;
+        left: 4%;
         /* right: 4%; */
-        top: calc(90% + 2200px/2 + 12px);
+        top: calc(90% + 2370px/2 + 12px);
         font-family: 'Big Shoulders Display';
         font-style: normal;
         font-weight: 900;
-        font-size: 50px;
-        line-height: 45px;
+        font-size: 58px;
+        line-height: 52px;
         text-transform: uppercase;
         color: #151515;
     }
@@ -716,15 +716,15 @@ footer{
     .content-two-text {
         position: absolute;
         height: 112px;
-        left: 2%;
+        left: 4%;
         right: 0%;
-        top: calc(53% + 2350px/2 + 55.5px);
+        top: calc(53% + 2520px/2 + 55.5px);
         font-family: 'Outfit';
         font-style: normal;
         font-weight: 300;
-        font-size: 19px;
+        font-size: 20px;
         line-height: 30px;
-        width: 300px;
+        width: 350px;
         color: #444444;
     }
 
@@ -732,10 +732,10 @@ footer{
         background-image: url(mobile/image-grid-2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        width: 283px;
-        height: 480px;
+        width: 408px;
+        height: 530px;
         position: absolute;
-        left: 1.2%;
+        left: 4.2%;
         top: 1450px;
         /* display: block; */
     }
@@ -744,19 +744,19 @@ footer{
         background-image: url(mobile/image-grid-3.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        width: 283px;
-        height: 290px;
+        width: 408px;
+        height: 237px;
         position: absolute;
-        left: 1.2%;
-        top: 1950px;
+        left: 4.2%;
+        top: 1996px;
         /* display: block; */
     }
 
     .image-grid-4 {
-        width: 283px;
+        width: 408px;
         height: 330px;
         top: 2270px;
-        left: 1.2%;
+        left: 4.2%;
         position: absolute;
         background-color: #151515;
     }
@@ -764,32 +764,31 @@ footer{
     .image-grid-4-header {
         font-family: 'Big Shoulders Display';
         font-weight: 900;
-        font-size: 50px;
-        line-height: 45px;
+        font-size: 59px;
+        line-height: 55px;
         text-transform: uppercase;
         color: #FFFFFF;
         position: absolute;
-        height: 90px;
+        height: 99px;
         left: 25px;
         right: 0%;
-        top: calc(50% - 90px/2 - 54px);
+        top: calc(50% - 150px/2 - 54px);
     }
 
     .image-grid-4-content {
         font-family: 'Outfit';
         font-style: normal;
         font-weight: 300;
-        font-size: 18px;
+        font-size: 25px;
         line-height: 28px;
         color: #FFFFFF;
         position: absolute;
         height: 84px;
-        width: 220px;
+        width: 284px;
         left: 25px;
         right: 0%;
         top: calc(50% - 84px/2 + 57px);
     }
-
     footer {
         width: 480px;
         height: 336px;
@@ -802,11 +801,11 @@ footer{
     .footer-heading {
         font-family: 'Big Shoulders Display';
         font-weight: 900;
-        font-size: 25px;
-        width: 120px;
+        font-size: 31px;
+        width: 153px;
         height: 40px;
         position: absolute;
-        left: 4%;
+        left: 7%;
         right: 0%;
         top: 10%;
         color: #FFFFFF;
@@ -817,33 +816,31 @@ footer{
         font-family: 'Outfit';
         font-style: normal;
         font-weight: 300;
-        font-size: 15px;
+        font-size: 19px;
         line-height: 26px;
         position: absolute;
         height: 104px;
-        left: 4%;
+        left: 7%;
         top: calc(50% - 104px/2 + 10px);
         color: #FFFFFF;
-        width: 270px;
-    
+        width: 371px;
     }
     
     .footer-icon-facebook {
         position: absolute;
-        width: 20px;
-        height: 20px;
-        left: 4%;
+        width: 30px;
+        height: 30px;
+        left: 7%;
         top: 80%;
         /* bottom: 0%; */
         background-image: url(icon-facebook.svg);
         background-repeat: no-repeat;
     }
-    
     .footer-icon-instagram {
         position: absolute;
         width: 20px;
         height: 20px;
-        left: 12%;
+        left: 15%;
         top: 80%;
         background-image: url(icon-instagram.svg);
         background-repeat: no-repeat;
@@ -852,8 +849,8 @@ footer{
     .footer-icon-twitter {
         position: absolute;
         width: 20px;
-        height: 20px;
-        left: 21%;
+        height: 30px;
+        left: 24%;
         top: 80%;
         background-image: url(icon-twitter.svg);
         background-repeat: no-repeat;
