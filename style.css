@@ -605,8 +605,8 @@ footer{
     }
 
     .image-hero {
-        width: 480px;
-        height: 300px;
+        width: 752px;
+        height: 494px;
         background-image: url(mobile/image-hero.jpg);
         background-repeat: no-repeat;
         background-size: cover;
@@ -621,59 +621,58 @@ footer{
     .header-text {
         font-family: 'Big Shoulders Display';
         font-style: normal;
-        width: 343px;
-        height: 110px;
-        font-size: 63px;
+        width: 500px;
+        height: 92px;
+        font-size: 107px;
         font-weight: 900px;
-        line-height: 60px;
+        line-height: 108px;
         text-transform: uppercase;
         position: absolute;
         color: black;
         left: 7%;
         right: 0%;
-        top: calc(90% + 650px/2 - 12px);
-    
+        top: calc(-44% + 701px/2 - -188px);
     }
 
     .header-paragraph-content {
         font-family: 'outfit';
         font-style: normal;
         font-weight: 300;
-        font-size: 19px;
-        line-height: 30px;
+        font-size: 33px;
+        line-height: 47px;
         color: #151515;
         position: absolute;
-        width: 350px;
+        width: 593px;
         height: 112px;
         left: 8%;
         right: 0%;
-        top: calc(48% + 600px/2 + 155px);
+        top: calc(48% + 1284px/2 + 155px);
     }
 
     .button1idle-location {
         position: absolute;
         left: 7%;
-        top: calc(69% + 940px/2 + 155px);
-        width: 189px;
-        height: 63px;
+        top: calc(69% + 1784px/2 + 155px);
+        width: 300px;
+        height: 117px;
         background-color: black;
         border: none;
         color: white;
         font-family: 'Big Shoulders Display';
         font-style: normal;
         font-weight: 800;
-        font-size: 21px;
+        font-size: 34px;
         letter-spacing: 3.63636px;
     }
 
     .icon-arrow-right-box {
         position: absolute;
-        left: 46.5%;
+        left: 69.5%;
         right: 7.06%;
-        top: calc(69% + 940px/2 + 155px);
+        top: calc(69% + 1782px/2 + 155px);
         bottom: 67.25%;
-        width: 46px;
-        height: 63px;
+        width: 81px;
+        height: 118px;
         background-color: #D5966C;
         align-items: center;
         border: none;
@@ -681,44 +680,42 @@ footer{
 
     .icon-arrow-right {
         color: white;
-        width: 8px;
-        height: 24px;
+        width: 10px;
+        height: 23px;
         position: absolute;
         margin: 10px;
-        right: 15%;
-        top: 11%;
-        bottom: 42.25%;
+        right: 34%;
+        top: 32%;
+        bottom: 22.25%;
         border: 1px solid #FFFFFF;
         border: none;
         background-image: url(icon-arrow-right.svg);
         background-position: center;
     }
 
-
     .image-grid-1 {
         background-image: url(mobile/image-grid-1.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        width: 404px;
-        height: 369px;
+        width: 653px;
+        height: 489px;
         position: absolute;
-        left: 4.2%;
-        top: 800px;
+        left: 5.2%;
+        top: 1314px;
         /* display: block; */
     }
-
     .content-two-header {
         position: absolute;
-        width: 300px;
+        width: 481px;
         height: 86px;
-        left: 4%;
+        left: 5%;
         /* right: 4%; */
-        top: calc(90% + 2370px/2 + 12px);
+        top: calc(90% + 3672px/2 + 12px);
         font-family: 'Big Shoulders Display';
         font-style: normal;
         font-weight: 900;
-        font-size: 58px;
-        line-height: 52px;
+        font-size: 104px;
+        line-height: 101px;
         text-transform: uppercase;
         color: #151515;
     }
@@ -726,15 +723,15 @@ footer{
     .content-two-text {
         position: absolute;
         height: 112px;
-        left: 4%;
+        left: 6%;
         right: 0%;
-        top: calc(53% + 2520px/2 + 55.5px);
+        top: calc(53% + 4036px/2 + 55.5px);
         font-family: 'Outfit';
         font-style: normal;
         font-weight: 300;
-        font-size: 20px;
-        line-height: 30px;
-        width: 350px;
+        font-size: 33px;
+        line-height: 49px;
+        width: 569px;
         color: #444444;
     }
 
@@ -742,11 +739,11 @@ footer{
         background-image: url(mobile/image-grid-2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        width: 408px;
-        height: 530px;
+        width: 635px;
+        height: 839px;
         position: absolute;
-        left: 4.2%;
-        top: 1450px;
+        left: 6.2%;
+        top: 2344px;
         /* display: block; */
     }
 
@@ -754,19 +751,19 @@ footer{
         background-image: url(mobile/image-grid-3.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        width: 408px;
-        height: 237px;
+        width: 635px;
+        height: 372px;
         position: absolute;
-        left: 4.2%;
-        top: 1996px;
+        left: 6.2%;
+        top: 3197px;
         /* display: block; */
     }
 
     .image-grid-4 {
-        width: 408px;
-        height: 330px;
-        top: 2270px;
-        left: 4.2%;
+        width: 635px;
+        height: 479px;
+        top: 3584px;
+        left: 6.2%;
         position: absolute;
         background-color: #151515;
     }
@@ -774,48 +771,50 @@ footer{
     .image-grid-4-header {
         font-family: 'Big Shoulders Display';
         font-weight: 900;
-        font-size: 59px;
-        line-height: 55px;
+        font-size: 91px;
+        line-height: 113px;
         text-transform: uppercase;
         color: #FFFFFF;
         position: absolute;
         height: 99px;
-        left: 25px;
+        left: 58px;
         right: 0%;
-        top: calc(50% - 150px/2 - 54px);
+        top: calc(50% - 333px/2 - 54px);
     }
 
     .image-grid-4-content {
         font-family: 'Outfit';
         font-style: normal;
         font-weight: 300;
-        font-size: 25px;
-        line-height: 28px;
+        font-size: 37px;
+        line-height: 42px;
         color: #FFFFFF;
         position: absolute;
         height: 84px;
-        width: 284px;
-        left: 25px;
+        width: 427px;
+        left: 54px;
         right: 0%;
-        top: calc(50% - 84px/2 + 57px);
+        top: calc(50% - 64px/2 + 57px);
     }
+
+
     footer {
-        width: 480px;
-        height: 336px;
+        width: 772px;
+        height: 456px;
         position: absolute;
         background-color: #151515;
-        top: 2760px;
+        top: 4159px;
         left: 0px;
     }
 
     .footer-heading {
         font-family: 'Big Shoulders Display';
         font-weight: 900;
-        font-size: 31px;
-        width: 153px;
+        font-size: 44px;
+        width: 222px;
         height: 40px;
         position: absolute;
-        left: 7%;
+        left: 9%;
         right: 0%;
         top: 10%;
         color: #FFFFFF;
@@ -826,30 +825,33 @@ footer{
         font-family: 'Outfit';
         font-style: normal;
         font-weight: 300;
-        font-size: 19px;
-        line-height: 26px;
+        font-size: 28px;
+        line-height: 36px;
         position: absolute;
-        height: 104px;
-        left: 7%;
+        height: 106px;
+        left: 9%;
         top: calc(50% - 104px/2 + 10px);
         color: #FFFFFF;
-        width: 371px;
+        width: 455px;
     }
     
     .footer-icon-facebook {
         position: absolute;
-        width: 30px;
-        height: 30px;
-        left: 7%;
+        width: 44px;
+        height: 44px;
+        left: 9%;
         top: 80%;
         /* bottom: 0%; */
         background-image: url(icon-facebook.svg);
         background-repeat: no-repeat;
+        background-size: cover;
     }
+
+
     .footer-icon-instagram {
         position: absolute;
-        width: 20px;
-        height: 20px;
+        width: 42px;
+        height: 42px;
         left: 15%;
         top: 80%;
         background-image: url(icon-instagram.svg);
@@ -858,9 +860,9 @@ footer{
     
     .footer-icon-twitter {
         position: absolute;
-        width: 20px;
-        height: 30px;
-        left: 24%;
+        width: 45px;
+        height: 42px;
+        left: 22%;
         top: 80%;
         background-image: url(icon-twitter.svg);
         background-repeat: no-repeat;
@@ -900,132 +902,128 @@ footer{
         width: 0px;
         height: 0px;
     }
-
     .image-hero {
         background-image: url(tablet/image-hero.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         position: absolute;
-        left: -5%;
+        left: 0%;
         top: 0%;
         bottom: 0%;
-        width: 220px;
-        height: 390px;
+        width: 392px;
+        height: 499px;
     }
 
     .header-text {
         font-family: 'Big Shoulders Display';
         font-style: normal;
-        width: 339px;
+        width: 341px;
         height: 130px;
-        font-size: 27px;
+        font-size: 62px;
         font-weight: 900px;
-        line-height: 30px;
+        line-height: 58px;
         text-transform: uppercase;
         position: absolute;
         color: #151515;
         height: 176px;
-        left: 19.3%;
+        left: 42.1%;
         z-index: 1;
-        top: calc(35% - 176px/2 - 122.5px);
-        
-    }
-
-    .header-paragraph-content {
-        font-family: 'outfit';
-        font-style: normal;
-        font-weight: 300px;
-        font-size: 9px;
-        line-height: 13px;
-        color: #151515;
-        position: absolute;
-        width: 138px;
-        height: 112px;
-        left: 19.2%;
-        right: 0%;
-        top: calc(47% - 189px/2 - 130px);
+        top: calc(35% - 176px/2 - 80.5px);
     }
 
 
-    .button1idle-location {
-        position: absolute;
-        left: 19.2%;
-        top: 33%;
-        width: 90px;
-        height: 30px;
-        background-color: black;
-        border: none;
-        color: white;
-        font-family: 'Big Shoulders Display';
-        font-style: normal;
-        font-weight: 800;
-        font-size: 7px;
-        letter-spacing: 3.63636px;
-    }
+   .header-paragraph-content {
+    font-family: 'outfit';
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 17px;
+    line-height: 25px;
+    color: #151515;
+    position: absolute;
+    width: 302px;
+    height: 112px;
+    left: 42.2%;
+    right: 0%;
+    top: calc(47% - 189px/2 - 26px);
+}
 
-    .icon-arrow-right-box {
-        position: absolute;
-        left: 30%;
-        top: 33%;
-        width: 18px;
-        height: 30px;
-        background-color: #D5966C;
-        align-items: center;
-        border: none;
-    }
 
-    .icon-arrow-right {
-        color: white;
-        width: 10px;
-        height: 16px;
-        position: absolute;
-        margin: 10px;
-        right: -25%;
-        top: -8%;
-        bottom: 42.25%;
-        border: 1px solid #FFFFFF;
-        border: none;
-        background-image: url(icon-arrow-right.svg);
-        background-position: center;
-    }
+.button1idle-location {
+    position: absolute;
+    left: 42.2%;
+    top: 49%;
+    width: 159px;
+    height: 50px;
+    background-color: black;
+    border: none;
+    color: white;
+    font-family: 'Big Shoulders Display';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 17px;
+    letter-spacing: 3.63636px;
+}
 
-    .content-two-header {
-        position: absolute;
-        width: 120px;
-        height: 135px;
-        left: 1%;
-        top: calc(90% - 250px/2 - 80px);
-        font-family: 'Big Shoulders Display';
-        font-style: normal;
-        font-weight: 900;
-        font-size: 27px;
-        line-height: 25px;
-        text-transform: uppercase;
-        color: #151515;
-    }
+.icon-arrow-right-box {
+    position: absolute;
+    left: 61.5%;
+    top: 49%;
+    width: 32px;
+    height: 50px;
+    background-color: #D5966C;
+    align-items: center;
+    border: none;
+}
+.icon-arrow-right {
+    color: white;
+    width: 9px;
+    height: 21px;
+    position: absolute;
+    margin: 10px;
+    right: 8%;
+    top: 12%;
+    bottom: 42.25%;
+    border: 1px solid #FFFFFF;
+    border: none;
+    background-image: url(icon-arrow-right.svg);
+    background-position: center;
+}
 
+.content-two-header {
+    position: absolute;
+    width: 173px;
+    height: 135px;
+    left: 4%;
+    top: calc(90% - -33px/2 - 80px);
+    font-family: 'Big Shoulders Display';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 44px;
+    text-transform: uppercase;
+    color: #151515;
+}
     .image-grid-1 {
         background-image: url(tablet/image-grid-1.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        width: 149px;
-        height: 175px;
+        width: 330px;
+        height: 331px;
         position: absolute;
-        top: 442px;
-        left: 142px;
+        top: 577px;
+        left: 373px;
     }
-
     .content-two-text {
         position: absolute;
         height: 128px;
-        left: 1%;
-        top: calc(85% - 300px/2 + 76px);
+        left: 4%;
+        top: calc(85% - -143px/2 + 76px);
         font-family: 'Outfit';
         font-style: normal;
         font-weight: 300;
-        font-size: 9px;
-        line-height: 13px;
-        width: 118px;
+        font-size: 17px;
+        line-height: 26px;
+        width: 300px;
         color: #444444;
     }
 
@@ -1033,131 +1031,131 @@ footer{
         background-image: url(tablet/image-grid-2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        width: 161px;
-        height: 273px;
+        width: 376px;
+        height: 650px;
         position: absolute;
-        left: 1%;
-        top: 631px;
+        left: 4%;
+        top: 928px;
     }
 
     .image-grid-3 {
         background-image: url(tablet/image-grid-3.jpg);
         background-size: cover;
         background-repeat: no-repeat;
-        width: 118px;
-        height: 133px;
+        width: 282px;
+        height: 308px;
         position: absolute;
-        left: 21%;
-        top: 631px;
+        left: 51%;
+        top: 928px;
     }
 
     .image-grid-4 {
-        width: 118px;
-        height: 137px;
-        top: 767px;
-        left: 21%;
-        position: absolute;
-        background-color: #151515;
-    }
+    width: 281px;
+    height: 330px;
+    top: 1248px;
+    left: 51%;
+    position: absolute;
+    background-color: #151515;
+}
 
-    .image-grid-4-header {
-        font-family: 'Big Shoulders Display';
-        font-weight: 900;
-        font-size: 22px;
-        line-height: 22px;
-        text-transform: uppercase;
-        color: #FFFFFF;
-        position: absolute;
-        height: 120px;
-        left: 8%;
-        right: 0%;
-        top: calc(65% - 26px/2 - 64px);
-    }
+.image-grid-4-header {
+    font-family: 'Big Shoulders Display';
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 51px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    position: absolute;
+    height: 120px;
+    left: 8%;
+    right: 0%;
+    top: calc(65% - 233px/2 - 64px);
+}
 
-    .image-grid-4-content {
-        font-family: 'Outfit';
-        font-style: normal;
-        font-weight: 300;
-        font-size: 8px;
-        line-height: 12px;
-        color: #FFFFFF;
-        position: absolute;
-        height: 96px;
-        left: 8%;
-        right: 0%;
-        top: calc(40% - 120px/2 + 76px);
-        width: 99px;
-    }
+.image-grid-4-content {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    position: absolute;
+    height: 96px;
+    left: 8%;
+    right: 0%;
+    top: calc(40% - 67px/2 + 76px);
+    width: 228px;
+}
 
-    footer {
-        width: 825px;
-        height: 122px;
-        position: absolute;
-        background-color: #151515;
-        top: 964px;
-        left: 0px;
-    }
+footer {
+    width: 825px;
+    height: 200px;
+    position: absolute;
+    background-color: #151515;
+    top: 1664px;
+    left: 0px;
+}
 
-    .footer-heading {
-        font-family: 'Big Shoulders Display';
-        font-weight: 900;
-        font-size: 11px;
-        width: 200px;
-        height: 50px;
-        position: absolute;
-        left: 1%;
-        right: 0%;
-        top: 24%;
-        color: #FFFFFF;
-        text-transform: uppercase;
-    }
+.footer-heading {
+    font-family: 'Big Shoulders Display';
+    font-weight: 900;
+    font-size: 30px;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    left: 4%;
+    right: 0%;
+    top: 24%;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
 
-    .footer-content {
-        font-family: 'Outfit';
-        font-style: normal;
-        font-weight: 200;
-        line-height: 14px;
-        font-size: 7px;
-        position: absolute;
-        height: 84px;
-        left: 10%;
-        top: calc(54% - 80px/2);
-        color: #FFFFFF;
-        width: 108px;
-    }
+.footer-content {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 200;
+    line-height: 23px;
+    font-size: 17px;
+    position: absolute;
+    height: 84px;
+    left: 27%;
+    top: calc(54% - 124px/2);
+    color: #FFFFFF;
+    width: 283px;
+}
 
-    .footer-icon-facebook {
-        position: absolute;
-        width: 12px;
-        height: 12px;
-        left: 27%;
-        top: 25%;
-        background-image: url(icon-facebook.svg);
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
+.footer-icon-facebook {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 70%;
+    top: 25%;
+    background-image: url(icon-facebook.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
-    .footer-icon-instagram {
-        position: absolute;
-        width: 12px;
-        height: 12px;
-        left: 29.5%;
-        top: 25%;
-        background-image: url(icon-instagram.svg);
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
+.footer-icon-instagram {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 75.5%;
+    top: 25%;
+    background-image: url(icon-instagram.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
-    .footer-icon-twitter {
-        position: absolute;
-        width: 14px;
-        height: 12px;
-        left: 32%;
-        top: 25%;
-        background-size: cover;
-        background-image: url(icon-twitter.svg);
-        background-repeat: no-repeat;
-    }
+.footer-icon-twitter {
+    position: absolute;
+    width: 36px;
+    height: 30px;
+    left: 81%;
+    top: 25%;
+    background-size: cover;
+    background-image: url(icon-twitter.svg);
+    background-repeat: no-repeat;
+}
 }
 
 /*MEDIA QUERIES FOR LOCATION PAGE*/
@@ -1175,8 +1173,8 @@ footer{
     }
 
     .image-map {
-        width: 480px;
-        height: 780px;
+        width: 320px;
+        height: 469px;
         position: absolute;
         left: 0px;
         top: 0px;
@@ -1184,12 +1182,11 @@ footer{
         background-size: cover;
         background-repeat: no-repeat;
     }
-
     .icon-arrow-left-box {
         position: absolute;
         left: 0px;
-        width: 56px;
-        height: 72px;
+        width: 39px;
+        height: 48px;
         background-color: #D5966C;
         align-items: center;
         border: none;
@@ -1197,26 +1194,39 @@ footer{
 
     .button1idle-back-to-home {
         position: absolute;
-        left: 50px;
+        left: 38px;
         top: 0%;
-        width: 208px;
-        height: 72px;
+        width: 153px;
+        height: 48px;
         background-color: black;
         border: none;
         color: white;
         font-family: 'Big Shoulders Display';
         font-style: normal;
         font-weight: 800;
-        font-size: 20px;
+        font-size: 14px;
         letter-spacing: 3.63636px;
+    }
+
+    .icon-arrow-left {
+        color: white;
+        width: 10px;
+        height: 24px;
+        position: absolute;
+        left: 14px;
+        top: 13px;
+        border: 1px solid #FFFFFF;
+        border: none;
+        background-image: url(icon-arrow-left.svg);
+        background-position: center;
     }
 
     .middle-mask {
         position: absolute;
-        width: 480px;
-        height: 600px;
+        width: 321px;
+        height: 451px;
         left: 0px;
-        top: 780px;
+        top: 468px;
         background-color: #151515;
     }
 
@@ -1224,16 +1234,16 @@ footer{
         font-family: 'Big Shoulders Display';
         font-style: normal;
         font-weight: 900;
-        font-size: 50px;
-        line-height: 70px;
+        font-size: 41px;
+        line-height: 61px;
         text-transform: uppercase;
         position: absolute;
         height: 140px;
-        left: 7%;
-        width: 60%;
+        left: 5%;
+        width: 76%;
         color: #FFFFFF;
         /* right: 68.47%; */
-        top: calc(34% - 140px/2 - 88px);
+        top: calc(34% - 55px/2 - 88px);
     }
 
     .middle-mask-heading-s {
@@ -1254,26 +1264,25 @@ footer{
         font-family: 'Outfit';
         font-style: normal;
         font-weight: 300;
-        font-size: 22px;
-        line-height: 32px;
+        font-size: 16px;
+        line-height: 24px;
         color: #FFFFFF;
         position: absolute;
         height: 96px;
-        left: 7%;
-        top: calc(50% - 96px/2 - 40px);
+        left: 5%;
+        top: calc(50% - 43px/2 - 40px);
     }
-
     .middle-mask-content-l {
         font-family: 'Outfit';
         font-style: normal;
         font-weight: 300;
-        font-size: 22px;
-        line-height: 32px;
+        font-size: 16px;
+        line-height: 24px;
         color: #FFFFFF;
         position: absolute;
         height: 128px;
-        left: 7%;
-        width: 300px;
+        left: 5%;
+        width: 252px;
         right: 0%;
         top: calc(55% - 128px/2 + 94px);
     }
@@ -1290,30 +1299,31 @@ footer{
     .footer-heading-map {
         font-family: 'Big Shoulders Display';
         font-weight: 900;
-        font-size: 30px;
+        font-size: 28px;
         width: 200px;
         height: 50px;
         position: absolute;
-        left: 7%;
+        left: 5%;
         right: 0%;
         top: 10%;
         color: #151515;
         text-transform: uppercase;
     }
 
-    .footer-content-map {
-        font-family: 'Outfit';
-        font-style: normal;
-        font-weight: 300;
-        line-height: 40px;
-        font-size: 15px;
-        position: absolute;
-        height: 84px;
-        left: 7%;
-        top: calc(48% - 84px/2);
-        color: #151515;
-        width: 350px;
-    }
+
+ .footer-content-map {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+    font-size: 15px;
+    position: absolute;
+    height: 84px;
+    left: 5%;
+    top: calc(48% - 71px/2);
+    color: #151515;
+    width: 240px;
+}
 
     .footer-icon-facebook-map {
         position: absolute;
@@ -1354,6 +1364,136 @@ footer{
 
 @media only screen and (min-width:481px) and (max-width:825px){
 
+    .image-map {
+        width: 1129px;
+        height: 604px;
+        position: absolute;
+        left: -161px;
+        top: 0px;
+        background-image: url(desktop/image-map.png);
+        background-repeat: no-repeat;
+    }
+
+    .icon-arrow-left-box {
+        position: absolute;
+        left: 191px;
+        width: 56px;
+        height: 83px;
+        background-color: #D5966C;
+        align-items: center;
+        border: none;
+    }
+
+    .icon-arrow-left {
+        color: white;
+        width: 10px;
+        height: 24px;
+        position: absolute;
+        left: 21px;
+        top: 32px;
+        border: 1px solid #FFFFFF;
+        border: none;
+        background-image: url(icon-arrow-left.svg);
+        background-position: center;
+    }
+
+    .middle-mask {
+        position: absolute;
+        width: 966px;
+        height: 548px;
+        left: 0px;
+        top: 601px;
+        background-color: #151515;
+    }
+
+    .button1idle-back-to-home {
+        position: absolute;
+        left: 247px;
+        top: 0%;
+        width: 219px;
+        height: 83px;
+        background-color: black;
+        border: none;
+        color: white;
+        font-family: 'Big Shoulders Display';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 20px;
+        letter-spacing: 3.63636px;
+    }
+
+    .footer {
+        width: 1000px;
+        height: 244px;
+        position: absolute;
+        background-color: #D5966C;
+        top: 548px;
+        left: 0px;
+    }
+
+    .footer-heading-map {
+        font-family: 'Big Shoulders Display';
+        font-weight: 900;
+        font-size: 36px;
+        width: 200px;
+        height: 58px;
+        position: absolute;
+        left: 6%;
+        right: 0%;
+        top: 34%;
+        color: #151515;
+        text-transform: uppercase;
+    }
+
+    .footer-content-map {
+        font-family: 'Outfit';
+        font-size: 19px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 28px;
+        position: absolute;
+        height: 84px;
+        left: 34%;
+        top: calc(50% - 84px/2);
+        color: black;
+        width: 336px;
+    }
+
+    .footer-icon-facebook-map {
+        position: absolute;
+        width: 35px;
+        height: 35px;
+        left: 75%;
+        top: 36%;
+        background-image: url(icon-facebook.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        filter: invert(100%);
+    }
+
+    .footer-icon-instagram-map {
+        position: absolute;
+        width: 35px;
+        height: 35px;
+        left: 78.6%;
+        top: 36%;
+        filter: invert(100%);
+        background-image: url(icon-instagram.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .footer-icon-twitter-map {
+        position: absolute;
+        width: 40px;
+        height: 35px;
+        left: 84.2%;
+        top: 36%;
+        filter: invert(100%);
+        background-image: url(icon-twitter.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 
 }
     
