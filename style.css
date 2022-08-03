@@ -1368,7 +1368,7 @@ footer {
         width: 932px;
         height: 604px;
         position: absolute;
-        left: -176px;
+        left: 0px;
         top: 0px;
         background-image: url(tablet/image-map.png);
         background-repeat: no-repeat;
@@ -1376,7 +1376,7 @@ footer {
 
     .icon-arrow-left-box {
         position: absolute;
-        left: 191px;
+        left: 42px;
         width: 56px;
         height: 83px;
         background-color: #D5966C;
@@ -1396,6 +1396,7 @@ footer {
         background-image: url(icon-arrow-left.svg);
         background-position: center;
     }
+
 
     .middle-mask {
         position: absolute;
@@ -1421,13 +1422,12 @@ footer {
         font-size: 20px;
         letter-spacing: 3.63636px;
     }
-
-    /* .middle-mask-heading-l {
+    .middle-mask-heading-l {
         font-family: 'Big Shoulders Display';
         font-style: normal;
         font-weight: 900;
-        font-size: 60px;
-        line-height: 65px;
+        font-size: 50px;
+        line-height: 59px;
         text-transform: uppercase;
         position: absolute;
         height: 140px;
@@ -1435,20 +1435,21 @@ footer {
         width: 20%;
         color: #FFFFFF;
         right: 68.47%;
-        top: calc(50% - 239px/2 - 88px);
-    } */
+        top: calc(50% - 140px/2 - 88px);
+    }
 
-    .middle-mask-content-s {
-        font-family: 'Outfit';
+    .middle-mask-heading-s {
+        font-family: 'Big Shoulders Display';
         font-style: normal;
-        font-weight: 300;
-        font-size: 19px;
-        line-height: 29px;
-        color: #FFFFFF;
+        font-weight: 900;
+        font-size: 36px;
+        line-height: 36px;
+        text-transform: uppercase;
         position: absolute;
-        height: 96px;
+        height: 36px;
         left: 41.35%;
-        top: calc(50% - 171px/2 - 40px);
+        color: #D5966C;
+        top: calc(50% - 140px/2 - 88px);
     }
 
     .middle-mask-content-l {
@@ -1463,9 +1464,21 @@ footer {
         left: 41.35%;
         width: 284px;
         right: 0%;
-        top: calc(50% - 177px/2 + 94px);
+        top: calc(50% - 123px/2 + 94px);
     }
 
+    .middle-mask-content-s {
+        font-family: 'Outfit';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 19px;
+        line-height: 29px;
+        color: #FFFFFF;
+        position: absolute;
+        height: 96px;
+        left: 41.35%;
+        top: calc(50% - 113px/2 - 40px);
+    }
 
     .footer-heading-map {
         font-family: 'Big Shoulders Display';
@@ -1484,7 +1497,7 @@ footer {
 
 
     .footer {
-        width: 1000px;
+        width: 825px;
         height: 244px;
         position: absolute;
         background-color: #D5966C;
@@ -1495,7 +1508,7 @@ footer {
     .footer-heading-map {
         font-family: 'Big Shoulders Display';
         font-weight: 900;
-        font-size: 36px;
+        font-size: 29px;
         width: 200px;
         height: 58px;
         position: absolute;
