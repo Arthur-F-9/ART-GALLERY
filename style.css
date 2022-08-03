@@ -1372,6 +1372,7 @@ footer {
         top: 0px;
         background-image: url(tablet/image-map.png);
         background-repeat: no-repeat;
+        background-size: cover;
     }
 
     .icon-arrow-left-box {
