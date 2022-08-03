@@ -926,6 +926,7 @@ footer{
         color: #151515;
         height: 176px;
         left: 19.3%;
+        z-index: 1;
         top: calc(35% - 176px/2 - 122.5px);
         
     }
