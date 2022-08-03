@@ -25,6 +25,17 @@
     
 }
 
+.image-n{
+    background-image: url(n.png);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    position: absolute;
+    left:-57%;
+    right: 22.35%;
+    /* top: 0%; */
+    bottom: 0%;
+    top: calc(106.4% - 1111px/2 - 122px);
+ }
 
 
 #overlay{
@@ -56,10 +67,9 @@
     position: absolute;
     color: black;
     height: 176px;
-    left: 48.9%;
+    left: 1%;
     right: 46.75%;
-   
-    top: calc(119.5% - 176px/2 - 122px);
+    top: calc(119.5% - 1111px/2 - 122px);
 }
 
 
@@ -71,11 +81,11 @@
     line-height: 88px;
     text-transform: uppercase;
     position: absolute;
-    color: black;
+    color: green;
     height: 176px;
-    left: -0%;
-    right: 46.75%;
-    top: calc(61% - 176px/2 - 122px);
+    left: 0%;
+    /* right: 0%; */
+    top: calc(50% - 176px/2 - 122px);
 }
 
 /* .header-text-2{
