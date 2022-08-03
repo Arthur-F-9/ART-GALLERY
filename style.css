@@ -605,13 +605,13 @@ footer{
     }
 
     .image-hero {
-        width: 752px;
-        height: 494px;
+        width: 480px;
+        height: 307px;
         background-image: url(mobile/image-hero.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         position: absolute;
-        left: 0%;
+        left: -16%;
         right: 0%;
         top: 0%;
         bottom: 0%;
@@ -623,75 +623,75 @@ footer{
         font-style: normal;
         width: 500px;
         height: 92px;
-        font-size: 107px;
+        font-size: 54px;
         font-weight: 900px;
-        line-height: 108px;
+        line-height: 55px;
         text-transform: uppercase;
         position: absolute;
         color: black;
-        left: 7%;
+        left: 4%;
         right: 0%;
-        top: calc(-44% + 701px/2 - -188px);
+        top: calc(-44% + 296px/2 - -188px);
     }
 
     .header-paragraph-content {
         font-family: 'outfit';
         font-style: normal;
         font-weight: 300;
-        font-size: 33px;
-        line-height: 47px;
+        font-size: 19px;
+        line-height: 31px;
         color: #151515;
         position: absolute;
-        width: 593px;
+        width: 288px;
         height: 112px;
-        left: 8%;
+        left: 4%;
         right: 0%;
-        top: calc(48% + 1284px/2 + 155px);
+        top: calc(48% + 611px/2 + 155px);
     }
 
     .button1idle-location {
         position: absolute;
-        left: 7%;
-        top: calc(69% + 1784px/2 + 155px);
-        width: 300px;
-        height: 117px;
+        left: 4%;
+        top: calc(69% + 1018px/2 + 155px);
+        width: 164px;
+        height: 59px;
         background-color: black;
         border: none;
         color: white;
         font-family: 'Big Shoulders Display';
         font-style: normal;
         font-weight: 800;
-        font-size: 34px;
+        font-size: 15px;
         letter-spacing: 3.63636px;
     }
 
     .icon-arrow-right-box {
-        position: absolute;
-        left: 69.5%;
-        right: 7.06%;
-        top: calc(69% + 1782px/2 + 155px);
-        bottom: 67.25%;
-        width: 81px;
-        height: 118px;
-        background-color: #D5966C;
-        align-items: center;
-        border: none;
-    }
+    position: absolute;
+    left: 37.5%;
+    right: -6.94%;
+    top: calc(69% + 1017px/2 + 155px);
+    bottom: 67.25%;
+    width: 46px;
+    height: 59px;
+    background-color: #D5966C;
+    align-items: center;
+    border: none;
+}
 
-    .icon-arrow-right {
-        color: white;
-        width: 10px;
-        height: 23px;
-        position: absolute;
-        margin: 10px;
-        right: 34%;
-        top: 32%;
-        bottom: 22.25%;
-        border: 1px solid #FFFFFF;
-        border: none;
-        background-image: url(icon-arrow-right.svg);
-        background-position: center;
-    }
+.icon-arrow-right {
+    color: white;
+    width: 10px;
+    height: 23px;
+    position: absolute;
+    margin: 1px;
+    right: 34%;
+    top: 31%;
+    bottom: 22.25%;
+    border: 1px solid #FFFFFF;
+    border: none;
+    background-image: url(icon-arrow-right.svg);
+    background-position: center;
+}
 
     .image-grid-1 {
         background-image: url(mobile/image-grid-1.jpg);
@@ -704,165 +704,177 @@ footer{
         top: 1314px;
         /* display: block; */
     }
+
     .content-two-header {
         position: absolute;
-        width: 481px;
+        width: 208px;
         height: 86px;
-        left: 5%;
+        left: 3%;
         /* right: 4%; */
-        top: calc(90% + 3672px/2 + 12px);
+        top: calc(90% + 2280px/2 + 12px);
         font-family: 'Big Shoulders Display';
         font-style: normal;
-        font-weight: 900;
-        font-size: 104px;
-        line-height: 101px;
+        font-weight: 300px;
+        font-size: 45px;
+        line-height: 47px;
         text-transform: uppercase;
         color: #151515;
     }
 
     .content-two-text {
-        position: absolute;
-        height: 112px;
-        left: 6%;
-        right: 0%;
-        top: calc(53% + 4036px/2 + 55.5px);
-        font-family: 'Outfit';
-        font-style: normal;
-        font-weight: 300;
-        font-size: 33px;
-        line-height: 49px;
-        width: 569px;
-        color: #444444;
-    }
+    position: absolute;
+    height: 112px;
+    left: 4%;
+    right: 0%;
+    top: calc(53% + 2403px/2 + 55.5px);
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 21px;
+    line-height: 34px;
+    width: 267px;
+    color: #444444;
+}
 
-    .image-grid-2 {
-        background-image: url(mobile/image-grid-2.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-        width: 635px;
-        height: 839px;
-        position: absolute;
-        left: 6.2%;
-        top: 2344px;
-        /* display: block; */
-    }
+.image-grid-2 {
+    background-image: url(mobile/image-grid-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 419px;
+    position: absolute;
+    left: 2%;
+    top: 1462px;
+    /* display: block; */
+}
 
-    .image-grid-3 {
-        background-image: url(mobile/image-grid-3.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-        width: 635px;
-        height: 372px;
-        position: absolute;
-        left: 6.2%;
-        top: 3197px;
-        /* display: block; */
-    }
+.image-grid-3 {
+    background-image: url(mobile/image-grid-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 188px;
+    position: absolute;
+    left: 2%;
+    top: 1888px;
+    /* display: block; */
+}
 
-    .image-grid-4 {
-        width: 635px;
-        height: 479px;
-        top: 3584px;
-        left: 6.2%;
-        position: absolute;
-        background-color: #151515;
-    }
+.image-grid-4 {
+    width: 300px;
+    height: 337px;
+    top: 2082px;
+    left: 2%;
+    position: absolute;
+    background-color: #151515;
+}
 
-    .image-grid-4-header {
-        font-family: 'Big Shoulders Display';
-        font-weight: 900;
-        font-size: 91px;
-        line-height: 113px;
-        text-transform: uppercase;
-        color: #FFFFFF;
-        position: absolute;
-        height: 99px;
-        left: 58px;
-        right: 0%;
-        top: calc(50% - 333px/2 - 54px);
-    }
-
-    .image-grid-4-content {
-        font-family: 'Outfit';
-        font-style: normal;
-        font-weight: 300;
-        font-size: 37px;
-        line-height: 42px;
-        color: #FFFFFF;
-        position: absolute;
-        height: 84px;
-        width: 427px;
-        left: 54px;
-        right: 0%;
-        top: calc(50% - 64px/2 + 57px);
-    }
+.image-grid-4-header {
+    font-family: 'Big Shoulders Display';
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 50px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    position: absolute;
+    height: 99px;
+    left: 27px;
+    right: 0%;
+    top: calc(50% - 199px/2 - 54px);
+}
 
 
-    footer {
-        width: 772px;
-        height: 456px;
-        position: absolute;
-        background-color: #151515;
-        top: 4159px;
-        left: 0px;
-    }
+.image-grid-4-content {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    color: #FFFFFF;
+    position: absolute;
+    height: 84px;
+    width: 256px;
+    left: 21px;
+    right: 0%;
+    top: calc(50% - 181px/2 + 57px);
+}
 
-    .footer-heading {
-        font-family: 'Big Shoulders Display';
-        font-weight: 900;
-        font-size: 44px;
-        width: 222px;
-        height: 40px;
-        position: absolute;
-        left: 9%;
-        right: 0%;
-        top: 10%;
-        color: #FFFFFF;
-        text-transform: uppercase;
-    }
+
+footer {
+    width: 480px;
+    height: 383px;
+    position: absolute;
+    background-color: #151515;
+    top: 2493px;
+    left: 0px;
+}
+
+.footer-heading {
+    font-family: 'Big Shoulders Display';
+    font-weight: 900;
+    font-size: 28px;
+    width: 222px;
+    height: 40px;
+    position: absolute;
+    left: 5%;
+    right: 0%;
+    top: 10%;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
     
-    .footer-content {
-        font-family: 'Outfit';
-        font-style: normal;
-        font-weight: 300;
-        font-size: 28px;
-        line-height: 36px;
-        position: absolute;
-        height: 106px;
-        left: 9%;
-        top: calc(50% - 104px/2 + 10px);
-        color: #FFFFFF;
-        width: 455px;
-    }
+.footer-content {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 27px;
+    position: absolute;
+    height: 106px;
+    left: 5%;
+    top: calc(50% - 127px/2 + 10px);
+    color: #FFFFFF;
+    width: 270px;
+}
     
-    .footer-icon-facebook {
-        position: absolute;
-        width: 44px;
-        height: 44px;
-        left: 9%;
-        top: 80%;
-        /* bottom: 0%; */
-        background-image: url(icon-facebook.svg);
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
+.footer-icon-facebook {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 5%;
+    top: 80%;
+    /* bottom: 0%; */
+    background-image: url(icon-facebook.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
-    .footer-icon-instagram {
-        position: absolute;
-        width: 42px;
-        height: 42px;
-        left: 15%;
-        top: 80%;
-        background-image: url(icon-instagram.svg);
-        background-repeat: no-repeat;
-    }
+.footer-icon-instagram {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 12%;
+    top: 80%;
+    background-image: url(icon-instagram.svg);
+    background-repeat: no-repeat;
+}
     
     .footer-icon-twitter {
         position: absolute;
         width: 45px;
         height: 42px;
         left: 22%;
+        top: 80%;
+        background-image: url(icon-twitter.svg);
+        background-repeat: no-repeat;
+    }
+
+    .footer-icon-twitter {
+        position: absolute;
+        width: 45px;
+        height: 45px;
+        left: 20%;
         top: 80%;
         background-image: url(icon-twitter.svg);
         background-repeat: no-repeat;
@@ -1156,7 +1168,10 @@ footer {
     background-image: url(icon-twitter.svg);
     background-repeat: no-repeat;
 }
+
 }
+
+
 
 /*MEDIA QUERIES FOR LOCATION PAGE*/
 /*PHONE MEDIA FOR THE LOCATION*/
