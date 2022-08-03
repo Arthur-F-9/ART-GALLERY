@@ -692,18 +692,17 @@ footer{
     background-image: url(icon-arrow-right.svg);
     background-position: center;
 }
-
-    .image-grid-1 {
-        background-image: url(mobile/image-grid-1.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-        width: 653px;
-        height: 489px;
-        position: absolute;
-        left: 5.2%;
-        top: 1314px;
-        /* display: block; */
-    }
+.image-grid-1 {
+    background-image: url(mobile/image-grid-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 301px;
+    height: 307px;
+    position: absolute;
+    left: 2%;
+    top: 822px;
+    /* display: block; */
+}
 
     .content-two-header {
         position: absolute;
